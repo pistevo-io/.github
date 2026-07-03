@@ -4,7 +4,7 @@
 
 ### We believe in building things that last.
 
-**Pistevo** — *"I believe"* in Greek — is a technology services company.
+**Pistevo** — *"I believe"* in Greek — is a platform engineering and managed cloud company.
 We're the platform team you plug in when hiring one would take six months you don't have.
 
 </div>
@@ -13,7 +13,7 @@ We're the platform team you plug in when hiring one would take six months you do
 
 ## What we do
 
-We run the cloud, Kubernetes, deploys, cost, and security work in the background — production-grade platform engineering for teams that need a platform team but can't hire one yet. And every client gets a **live dashboard** showing exactly what we're doing and how their systems are performing. That transparency isn't a feature we added; it's the whole promise. We say what we'll do, show the live data, and build things that last.
+We run your Kubernetes, tame your cloud bill, ship your deploys, and get you audit-ready — production-grade platform engineering for teams that need a platform team but can't hire one yet. And every client gets a **live dashboard** showing exactly what we're doing and how the platform is performing. That transparency isn't a feature we added; it's the whole promise. We say what we'll do, show the live data, and build things that last.
 
 ### Platform Engineering & Managed Cloud
 
@@ -31,11 +31,11 @@ Hosting, uptime, SSL, and content support for established sites — with the sam
 
 ---
 
-## How we build
+## How we work
 
-Security and client-data privacy come first, always. Our own product is built the way we build for clients — modern, observable, and boring in the best way.
+Everything runs the way a senior platform team would run it: declarative, version-controlled, observable, and secure by default. Infrastructure as code, GitOps delivery, and a security baseline baked into the pipeline — not bolted on after.
 
-**Next.js · React · TypeScript · Tailwind · PostgreSQL · Cloudflare Workers · Neon**
+**Kubernetes · Terraform · GitOps (Argo CD / Flux) · AWS · GCP · Azure · Prometheus & Grafana · CI/CD · DevSecOps · SOC 2 readiness**
 
 ---
 
@@ -43,6 +43,6 @@ Security and client-data privacy come first, always. Our own product is built th
 
 **Website:** [pistevo.io](https://pistevo.io) &nbsp;·&nbsp; **Contact:** [pistevo.io/#contact](https://pistevo.io/#contact)
 
-*We handle the tech so you can focus on your business.*
+*We handle the infrastructure so your engineers can ship product.*
 
 </div>
