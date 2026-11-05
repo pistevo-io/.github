@@ -4,8 +4,8 @@
 
 ### We believe in building things that last.
 
-**Pistevo** — *"I believe"* in Greek — is a platform engineering and managed cloud company.
-We're the platform team you plug in when hiring one would take six months you don't have.
+**Pistevo** (from the Greek *πιστεύω*, "I believe") is a digital growth partner for businesses
+of every size. We help businesses get found, get chosen, and run on autopilot.
 
 </div>
 
@@ -13,29 +13,22 @@ We're the platform team you plug in when hiring one would take six months you do
 
 ## What we do
 
-We run your Kubernetes, tame your cloud bill, ship your deploys, and get you audit-ready — production-grade platform engineering for teams that need a platform team but can't hire one yet. And every client gets a **live dashboard** showing exactly what we're doing and how the platform is performing. That transparency isn't a feature we added; it's the whole promise. We say what we'll do, show the live data, and build things that last.
+| Line | What it is |
+| --- | --- |
+| **SEO / AEO / GEO** | Get found in search engines and in AI answers, so the customers already looking for you find you first. Technical SEO, content strategy, AI visibility, and local search. |
+| **Paid Media** | Campaigns that put you in front of the right people, with clear reporting on what is working. Google search, social, and AI ads. |
+| **AI Automation** | We integrate AI into the systems you already use, so your workflows run faster and your team spends less time on repetitive work. |
 
-### Platform Engineering & Managed Cloud
-
-| Offer | What it is |
-|---|---|
-| **Platform Audit** | We review your Kubernetes, cloud spend, deploy pipeline, and security posture, then hand you a findings doc and a prioritized roadmap. |
-| **Platform Build** | We land you on production Kubernetes with GitOps, observability, infrastructure-as-code, a secure-by-default baseline, and CI/CD. |
-| **Platform Operations** | We run the platform on retainer: K8s ops, deploys, FinOps, security patching, and on-call. |
-
-*Audits credit toward a Build. Builds roll into Operations. Every engagement starts with a scoping call.*
-
-### Application Reliability
-
-Hosting, uptime, SSL, and content support for established sites — with the same live dashboard and monthly reporting. Foundation, Visibility, and Pro plans for smaller teams and existing clients.
+One partner for all three, or just the one you need.
 
 ---
 
 ## How we work
 
-Everything runs the way a senior platform team would run it: declarative, version-controlled, observable, and secure by default. Infrastructure as code, GitOps delivery, and a security baseline baked into the pipeline — not bolted on after.
-
-**Kubernetes · Terraform · GitOps (Argo CD / Flux) · AWS · GCP · Azure · Prometheus & Grafana · CI/CD · DevSecOps · SOC 2 readiness**
+- **One team.** The people who plan the strategy are the people who execute it and the people who report on it.
+- **Clear numbers.** Rankings, visibility, spend, and the leads that came from them, in plain view.
+- **Honest advice.** If a channel or an automation is not worth it, we say so.
+- **Plain language, always.** No jargon, no talking down to you.
 
 ---
 
@@ -43,6 +36,6 @@ Everything runs the way a senior platform team would run it: declarative, versio
 
 **Website:** [pistevo.io](https://pistevo.io) &nbsp;·&nbsp; **Contact:** [pistevo.io/#contact](https://pistevo.io/#contact)
 
-*We handle the infrastructure so your engineers can ship product.*
+[LinkedIn](https://www.linkedin.com/company/pistevo) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/pistevo.io) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/pistevoio)
 
 </div>
